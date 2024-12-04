@@ -42,4 +42,3 @@ select option in "reboot" "shutdown" "exit"; do
 			;;
 	esac
 done
-if end
